@@ -1,4 +1,4 @@
-# Bank-Loan-Project
+# bank-loan-project
 Using the KDD process on the Lending Club Loans dataset.
 
 To complete this, you will be using the Lending Club Loan Dataset 
