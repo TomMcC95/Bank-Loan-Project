@@ -1,7 +1,7 @@
 # Bank-Loan-Project
 Using the KDD process on the Lending Club Loans dataset.
 
-To complete this coursework, you will be using the Lending Club Loan Dataset 
+To complete this, you will be using the Lending Club Loan Dataset 
 (https://www.kaggle.com/ethon0426/lending-club-20072020q1). A curated version of 
 the dataset is uploaded on Blackboard as ‘LendingClubLoans2018-2020.xlsx’, which 
 contains the loan applications related data the company received in years 2018 to 
